@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Mingyuan Zhang"
   avatar           : "/Images/myz.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a PhD student of [Computer and Information Science](https://www.cis.upenn.edu) at [University of Pennsylvania](https://home.www.upenn.edu), working with Associate Professor [Shivani Agarwal](https://www.shivani-agarwal.net)."
+  bio              : "I am a PhD student of [<u>Computer and Information Science</u>](https://www.cis.upenn.edu) at [University of Pennsylvania](https://home.www.upenn.edu), working with Associate Professor [Shivani Agarwal](https://www.shivani-agarwal.net)."
   location         : "Philadelphia, PA, USA"
   email            : "myz@seas.upenn.edu"
   links:
@@ -118,7 +118,7 @@ author:
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://myzhang.me"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/moshimowang"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

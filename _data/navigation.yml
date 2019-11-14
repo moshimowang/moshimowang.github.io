@@ -11,6 +11,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "CV"
-  url: /CV/
+  url: /cv/
   - title: "Publications"
-  url: /Publications/
+  url: /publications/

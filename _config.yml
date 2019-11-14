@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Mingyuan Zhang"
   avatar           : "/Images/myz.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "<b>English name</b>: William<br><br>I am a PhD student of [<u>Computer and Information Science</u>](https://www.cis.upenn.edu) at [<u>University of Pennsylvania</u>](https://home.www.upenn.edu), working with Associate Professor [<u>Shivani Agarwal</u>](https://www.shivani-agarwal.net).<br><br><b>Research interests</b>: machine learning, statistical learning theory."
+  bio              : "<b>English name</b>: William<br><br><b>Short bio</b>:I am a PhD student of [<u>Computer and Information Science</u>](https://www.cis.upenn.edu) at [<u>University of Pennsylvania</u>](https://home.www.upenn.edu), working with Associate Professor [<u>Shivani Agarwal</u>](https://www.shivani-agarwal.net).<br><br><b>Research interests</b>: machine learning, statistical learning theory."
   location         : "Philadelphia, PA, USA"
   email            : "myz@seas.upenn.edu"
   links:
@@ -220,9 +220,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -284,7 +284,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
       layout: single
       author_profile: true

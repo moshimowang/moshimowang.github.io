@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Mingyuan Zhang"
   avatar           : "/Images/myz.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a PhD student of [Computer and Information Science](https://www.cis.upenn.edu) at [University of Pennsylvania](https://home.www.upenn.edu), working with Associate Professor [Shivani Agarwal](https://www.shivani-agarwal.net)."
   location         : "Philadelphia, PA, USA"
-  email            : "myz [at] seas.upenn.edu"
+  email            : "myz@seas.upenn.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

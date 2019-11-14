@@ -99,9 +99,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-108560875-2"
     anonymize_ip         : # true, false (default)
 
 
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Mingyuan Zhang"
   avatar           : "/Images/myz.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "English name: <b>William</b><br>I am a PhD student of [<u>Computer and Information Science</u>](https://www.cis.upenn.edu) at [<u>University of Pennsylvania</u>](https://home.www.upenn.edu), working with Associate Professor [<u>Shivani Agarwal</u>](https://www.shivani-agarwal.net)."
+  bio              : "English name: <b>William</b><br><br>I am a PhD student of [<u>Computer and Information Science</u>](https://www.cis.upenn.edu) at [<u>University of Pennsylvania</u>](https://home.www.upenn.edu), working with Associate Professor [<u>Shivani Agarwal</u>](https://www.shivani-agarwal.net)."
   location         : "Philadelphia, PA, USA"
   email            : "myz@seas.upenn.edu"
   links:

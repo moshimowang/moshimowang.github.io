@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "About Me"
 excerpt: "About me"
 permalink: /

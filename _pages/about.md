@@ -16,3 +16,7 @@ Research Interests and Methodologies
 ======
 **Interests**: Machine learning and statistical learning theory, ranking, transfer learning and meta learning. I enjoy developing both theory and algorithms to solve problems of practical import.<br>
 **Methodologies**:  Probability, Statistics, Machine Learning, Optimization.
+
+Recent News
+======
+Our paper <em>Convex Calibrated Surrogates for the Multi-Label F-Measure</em> has been accepted to ICML 2020!<br>

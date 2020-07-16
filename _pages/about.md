@@ -19,4 +19,4 @@ Research Interests and Methodologies
 
 Recent News
 ======
-Our paper <em>Convex Calibrated Surrogates for the Multi-Label F-Measure</em> has been accepted to ICML 2020!<br>
+Our paper [<em>Convex Calibrated Surrogates for the Multi-Label F-Measure</em>](https://proceedings.icml.cc/book/3712.pdf) has been accepted to ICML 2020!<br>

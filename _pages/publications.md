@@ -6,4 +6,6 @@ author_profile: true
 ---
 
 **Convex Calibrated Surrogates for the Multi-Label F-Measure**
-Mingyuan Zhang (University of Pennsylvania) · Harish Guruprasad Ramaswamy (IIT Madras) · Shivani Agarwal (University of Pennsylvania)
+Mingyuan Zhang · Harish Guruprasad Ramaswamy · Shivani Agarwal
+In Proceedings of the 37th International Conference on Machine Learning (ICML), 2020.
+[[link](https://proceedings.icml.cc/book/3712.pdf)]

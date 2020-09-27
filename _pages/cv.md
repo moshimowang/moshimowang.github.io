@@ -8,4 +8,4 @@ redirect_from:
   - /resume/
 ---
 
-Click [here](https://myzhang.me/cv/CV_zhang_full.pdf) for my most recent CV (updated in November, 2018).
+Click [here](https://myzhang.me/cv/CV_zhang_full.pdf) for my most recent CV (updated in September, 2020).

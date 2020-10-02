@@ -16,3 +16,10 @@ To appear.
 Mingyuan Zhang · Harish Guruprasad Ramaswamy · Shivani Agarwal<br>
 <em>In Proceedings of the 37th International Conference on Machine Learning (ICML), 2020.</em><br>
 [[link](https://proceedings.icml.cc/book/3712.pdf)]<br>
+
+### Preprints
+
+Foreshadowing the Benefits of Incidental Supervision
+Hangfeng He · Mingyuan Zhang · Qiang Ning · Dan Roth
+[[link](https://arxiv.org/abs/2006.05500)]
+

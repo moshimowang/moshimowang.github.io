@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Mingyuan Zhang's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mingyuan Zhang (张明远)"
+name                     : "Mingyuan Zhang"
 description              : "This is Mingyuan Zhang's personal website."
 url                      : "https://myzhang.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

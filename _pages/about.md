@@ -20,5 +20,5 @@ Research Interests and Methodologies
 
 Recent News
 ======
-* Our paper [<em>Bayes Consistency vs. H-Consistency: The Interplay between Surrogate Loss Functions and the Scoring Function Class</em>]() has been accepted to NeurIPS 2020 **spotlight paper**!<br>
+* Our paper [<em>Bayes Consistency vs. H-Consistency: The Interplay between Surrogate Loss Functions and the Scoring Function Class</em>](https://papers.nips.cc/paper/2020/hash/c4c28b367e14df88993ad475dedf6b77-Abstract.html) has been accepted to NeurIPS 2020 **spotlight paper**!<br>
 * Our paper [<em>Convex Calibrated Surrogates for the Multi-Label F-Measure</em>](https://proceedings.icml.cc/book/3712.pdf) has been accepted to ICML 2020!<br>

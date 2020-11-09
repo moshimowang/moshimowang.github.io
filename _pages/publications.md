@@ -10,7 +10,7 @@ author_profile: true
 Mingyuan Zhang · Shivani Agarwal<br>
 <em>In Advances in Neural Information Processing Systems (NeurIPS), 2020.</em><br>
 **Spotlight paper.**<br>
-To appear.
+[[link](https://papers.nips.cc/paper/2020/hash/c4c28b367e14df88993ad475dedf6b77-Abstract.html)]<br>
 
 **Convex Calibrated Surrogates for the Multi-Label F-Measure**<br>
 Mingyuan Zhang · Harish Guruprasad Ramaswamy · Shivani Agarwal<br>

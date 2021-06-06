@@ -117,9 +117,11 @@ author:
       icon: "far fa-fw fa-file-pdf"
       url: /cv/CV_zhang_full.pdf
     - label: "Google Scholar"
-      #icon: "fas fa-fw fa-book"
-      icon: "ai ai-google-scholar-square ai-3x"
+      icon: "fas fa-fw fa-book"
       url: "https://scholar.google.com/citations?user=0mAq5yUAAAAJ"
+    - label: "Semantic Scholar"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.semanticscholar.org/author/48984942"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:myz@seas.upenn.edu

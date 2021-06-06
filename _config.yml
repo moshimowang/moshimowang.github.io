@@ -117,7 +117,8 @@ author:
       icon: "far fa-fw fa-file-pdf"
       url: /cv/CV_zhang_full.pdf
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-book"
+      #icon: "fas fa-fw fa-book"
+      icon: "<i class="ai ai-google-scholar-square ai-3x"></i>"
       url: "https://scholar.google.com/citations?user=0mAq5yUAAAAJ"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -4,9 +4,6 @@ classes: wide
 title: "Experiences"
 permalink: /experiences/
 author_profile: true
-redirect_from: 
-  - /experiences/
-  - /experiences.html
 ---
 
 **Conference Reviewer**<br>

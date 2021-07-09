@@ -9,7 +9,7 @@ author_profile: true
 **Learning from Noisy Labels with No Change to the Training Process**<br>
 Mingyuan Zhang · Jane Lee · Shivani Agarwal<br>
 <em>In Proceedings of the 38th International Conference on Machine Learning (ICML), 2021.</em><br>
-To appear.<br>
+[[link](http://proceedings.mlr.press/v139/zhang21k.html)]<br>
 
 **Bayes Consistency vs. H-Consistency: The Interplay between Surrogate Loss Functions and the Scoring Function Class**<br>
 Mingyuan Zhang · Shivani Agarwal<br>

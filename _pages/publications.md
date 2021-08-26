@@ -6,6 +6,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Foreseeing the Benefits of Incidental Supervision**<br>
+Hangfeng He · Mingyuan Zhang · Qiang Ning · Dan Roth<br>
+<em>EMNLP 2021.</em><br>
+To appear.<br>
+
 **Learning from Noisy Labels with No Change to the Training Process**<br>
 Mingyuan Zhang · Jane Lee · Shivani Agarwal<br>
 <em>In Proceedings of the 38th International Conference on Machine Learning (ICML), 2021.</em><br>

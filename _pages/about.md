@@ -15,7 +15,7 @@ I am a third year PhD student working in Machine Learning with Associate Profess
 
 Research Interests and Methodologies
 ======
-**Interests**: Machine learning and statistical learning theory, transfer learning and meta learning, ranking. I enjoy developing both theory and algorithms to solve problems of practical import.<br>
+**Interests**: Machine learning and statistical learning theory, multiclass and multi-label classification, learning from noisy labels. I enjoy developing both theory and algorithms to solve problems of practical import.<br>
 **Methodologies**:  Probability, Statistics, Machine Learning, Optimization.
 
 Recent News

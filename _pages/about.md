@@ -20,5 +20,5 @@ Research Interests and Methodologies
 
 Recent News
 ======
-* Our paper <em>Foreseeing the Benefits of Incident</em> has been accepted to EMNLP 2021!<br>
+* Our paper <em>Foreseeing the Benefits of Incidental Supervision</em> has been accepted to EMNLP 2021!<br>
 * Our paper <em>Learning from Noisy Labels with No Change to the Training Process</em> [[link](http://proceedings.mlr.press/v139/zhang21k.html)] has been accepted to ICML 2021!<br>

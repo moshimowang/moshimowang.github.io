@@ -9,6 +9,7 @@ author_profile: true
 **Foreseeing the Benefits of Incidental Supervision**<br>
 Hangfeng He · Mingyuan Zhang · Qiang Ning · Dan Roth<br>
 EMNLP 2021.<br>
+**<span style="color:red">Oral paper.</span>**<br>
 To appear.<br>
 
 **Learning from Noisy Labels with No Change to the Training Process**<br>

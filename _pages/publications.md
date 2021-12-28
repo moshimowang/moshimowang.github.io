@@ -10,7 +10,7 @@ author_profile: true
 Hangfeng He · Mingyuan Zhang · Qiang Ning · Dan Roth<br>
 In <em>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing</em> (EMNLP), 2021.<br>
 **<span style="color:red">Oral paper.</span>**<br>
-[[link](https://aclanthology.org/2021.emnlp-main.134/)]<br>
+[[pdf](/Papers/emnlp2021-incidental-supervision.pdf)]<br>[[link](https://aclanthology.org/2021.emnlp-main.134/)]<br>
 
 **Learning from Noisy Labels with No Change to the Training Process**<br>
 Mingyuan Zhang · Jane Lee · Shivani Agarwal<br>

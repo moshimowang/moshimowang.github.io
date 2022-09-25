@@ -6,7 +6,9 @@ permalink: /experiences/
 author_profile: true
 ---
 
-<h1>Professional Activities</h1>
+<h2>Professional Activities</h2>
+
+---
 
 **Journal Reviewer**<br>
 Journal of Machine Learning Research, Transactions on Pattern Analysis and Machine Intelligence.<br>
@@ -14,7 +16,9 @@ Journal of Machine Learning Research, Transactions on Pattern Analysis and Machi
 **Conference Reviewer**<br>
 ICLR (2022, 2023), NeurIPS (2021, 2022).<br>
 
-<h1>Work Experiences and Activities</h1>
+<h2>Work Experiences and Activities</h2>
+
+---
 
 **Head Teaching Assistant**<br>
 CIS 520 Machine Learning (Spring 2020, Spring 2021, Spring 2022), University of Pennsylvania.

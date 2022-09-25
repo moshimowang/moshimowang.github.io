@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Mingyuan Zhang"
   avatar           : "/Images/myz.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "<b>English name</b>: William<br><br><b>Short bio</b>:I am a PhD student of [<u>Computer and Information Science</u>](https://www.cis.upenn.edu) at [<u>University of Pennsylvania</u>](https://home.www.upenn.edu), working with Associate Professor [<u>Shivani Agarwal</u>](https://www.shivani-agarwal.net).<br><br><b>Research interests</b>: Machine learning, statistical learning theory, and applications of machine learning."
+  bio              : "<b>Preferred name</b>: William<br><br><b>Short bio</b>:I am a PhD candidate of [<u>Computer and Information Science</u>](https://www.cis.upenn.edu) at [<u>University of Pennsylvania</u>](https://home.www.upenn.edu), working with Associate Professor [<u>Shivani Agarwal</u>](https://www.shivani-agarwal.net).<br><br><b>Research interests</b>: Machine learning and statistical learning theory, multiclass and multi-label classification, learning from noisy labels, and applications of machine learning."
   location         : "Philadelphia, PA, USA"
   email            : "myz@seas.upenn.edu"
   links:

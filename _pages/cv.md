@@ -8,4 +8,4 @@ redirect_from:
   - /resume/
 ---
 
-Click [here](/cv/Zhang-Mingyuan-CV.pdf) for my most recent CV (updated in January, 2022).
+Click [here](/cv/Zhang-Mingyuan-CV.pdf) for my most recent CV (updated in September, 2022).

@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mingyuan Zhang"
 description              : "This is Mingyuan Zhang's personal website."
-url                      : "https://myzhang.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mingyuanzhang.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "moshimowang/moshimowang.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -43,32 +43,27 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
-staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment by {fields.name}"
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
-  transforms:
-    email                : # "md5"
-  generatedFields:
-    date:
-      type               : # "date"
-      options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
+  giscus:
+    repo_id              : # Shown during giscus setup at https://giscus.app
+    category_name        : # Full text name of the category
+    category_id          : # Shown during giscus setup at https://giscus.app
+    discussion_term      : # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : # '1' for enabled (default), '0' for disabled
+    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+  staticman:
+    branch               : # "master"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : true
+  hide                   : # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
+lunr:
+  search_within_pages    : # true, false (default)
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -80,8 +75,9 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-yandex_site_verification :
 naver_site_verification  :
+yandex_site_verification :
+baidu_site_verification  :
 
 # Social Sharing
 twitter:
@@ -100,17 +96,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : "false" # false (default), "google", "google-universal", "custom"
-  # google:
-  #   tracking_id          : ""
-  #   anonymize_ip         : # true, false (default)
+  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "Mingyuan Zhang"
-  avatar           : "/Images/myz.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "<b>Preferred name</b>: William<br><br><b>Short bio</b>:I am a PhD candidate of [<u>Computer and Information Science</u>](https://www.cis.upenn.edu) at [<u>University of Pennsylvania</u>](https://home.www.upenn.edu), working with Associate Professor [<u>Shivani Agarwal</u>](https://www.shivani-agarwal.net).<br><br><b>Research interests</b>: Machine learning and statistical learning theory, multiclass and multi-label classification, learning from noisy labels, non-decomposable performance measures, and applications of machine learning."
+  avatar           : "/assets/images/myz.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "<b>English name</b>: William<br><br><b>Short bio</b>:I am a PhD candidate of [<u>Computer and Information Science</u>](https://www.cis.upenn.edu) at [<u>University of Pennsylvania</u>](https://home.www.upenn.edu), working with Associate Professor Shivani Agarwal.<br><br><b>Research interests</b>: Machine learning and statistical learning theory, multiclass and multi-label classification, learning from noisy labels, non-decomposable performance measures, and applications of machine learning."
   location         : "Philadelphia, PA, USA"
   email            : "myz@seas.upenn.edu"
   links:
@@ -125,7 +121,7 @@ author:
       url: "https://www.semanticscholar.org/author/48984942"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://myzhang.me"
+      # url: "https://mingyuanzhang.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/moshimowang"
@@ -178,6 +174,7 @@ exclude:
   - log
   - node_modules
   - package.json
+  - package-lock.json
   - Rakefile
   - README
   - tmp
@@ -286,7 +283,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: # true
       share: true
       related: true

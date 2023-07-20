@@ -1,10 +1,12 @@
 ---
 layout: single
 classes: wide
-title: "Professional Activities"
+title: "Experiences"
 permalink: /experiences/
 author_profile: true
 ---
+<h1>Professional Activities</h1>
+
 **Journal Reviewer**<br>
 Journal of Machine Learning Research, Transactions on Pattern Analysis and Machine Intelligence.<br>
 

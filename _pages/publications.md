@@ -6,6 +6,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Multi‑Label Learning from Noisy Labels.**<br>
+Mingyuan Zhang · Shivani Agarwal<br>
+Under review.<br>
+
+**Multiclass Learning from Noisy Labels for Non-decomposable Performance Measures.**<br>
+Mingyuan Zhang · Shivani Agarwal<br>
+Under review.<br>
+
+**On the Minimax Regret in Online Ranking with Top-k Feedback.**<br>
+Mingyuan Zhang · Ambuj Tewari<br>
+Under review.<br>
+
 **[4] Foreseeing the Benefits of Incidental Supervision**<br>
 Hangfeng He · Mingyuan Zhang · Qiang Ning · Dan Roth<br>
 In <em>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing</em> (EMNLP), 2021.<br>

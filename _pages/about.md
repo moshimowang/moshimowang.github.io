@@ -7,5 +7,5 @@ permalink: /about/
 author_profile: true
 ---
 
-**Interests**: Machine learning and statistical learning theory, multiclass and multi-label classification, learning from noisy labels, non-decomposable performance measures, and applications of machine learning. I enjoy developing both theory and algorithms to solve problems of practical import.<br>
+**Interests**: Machine learning and artificial intelligence, multiclass and multi-label classification, learning with noisy labels, and weakly supervised learning. I am looking for opportunities to apply theoretical insights to solve real-world problems.<br>
 **Methodologies**:  Probability, Statistics, Machine Learning, Optimization.

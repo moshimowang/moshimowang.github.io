@@ -16,7 +16,8 @@ Under review.<br>
 
 **On the Minimax Regret in Online Ranking with Top-k Feedback.**<br>
 Mingyuan Zhang · Ambuj Tewari<br>
-Under review.<br>
+Preprint.<br>
+[[pdf](/papers/preprint-top-k-feedback.pdf)][[link](https://arxiv.org/abs/2309.02425)]<br>
 
 **[4] Foreseeing the Benefits of Incidental Supervision**<br>
 Hangfeng He · Mingyuan Zhang · Qiang Ning · Dan Roth<br>

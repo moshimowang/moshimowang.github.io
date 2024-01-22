@@ -12,7 +12,8 @@ Under review.<br>
 
 **Multiclass Learning from Noisy Labels for Non-decomposable Performance Measures.**<br>
 Mingyuan Zhang · Shivani Agarwal<br>
-To appear in AISTATS 2024.<br>
+In <em>Proceedings of the 27th International Conference on Artificial Intelligence and Statistics</em> (AISTATS), 2024.<br>
+To appear.<br>
 
 **On the Minimax Regret in Online Ranking with Top-k Feedback.**<br>
 Mingyuan Zhang · Ambuj Tewari<br>

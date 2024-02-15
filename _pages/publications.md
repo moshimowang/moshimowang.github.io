@@ -10,7 +10,7 @@ author_profile: true
 Mingyuan Zhang · Shivani Agarwal<br>
 Under review.<br>
 
-**Multiclass Learning from Noisy Labels for Non-decomposable Performance Measures.**<br>
+**[5] Multiclass Learning from Noisy Labels for Non-decomposable Performance Measures.**<br>
 Mingyuan Zhang · Shivani Agarwal<br>
 In <em>Proceedings of the 27th International Conference on Artificial Intelligence and Statistics</em> (AISTATS), 2024.<br>
 To appear.<br>

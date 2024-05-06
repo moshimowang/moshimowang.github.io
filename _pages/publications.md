@@ -6,9 +6,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Multi‑Label Learning from Noisy Labels.**<br>
+**Consistent Multi‑Label Learning from Noisy Labels.**<br>
 Mingyuan Zhang · Shivani Agarwal<br>
-Under review.<br>
+Under review, 2024.<br>
 
 **[5] Multiclass Learning from Noisy Labels for Non-decomposable Performance Measures.**<br>
 Mingyuan Zhang · Shivani Agarwal<br>
@@ -17,7 +17,7 @@ In <em>Proceedings of the 27th International Conference on Artificial Intelligen
 
 **On the Minimax Regret in Online Ranking with Top-k Feedback.**<br>
 Mingyuan Zhang · Ambuj Tewari<br>
-Preprint.<br>
+Preprint, under review, 2023.<br>
 [[pdf](/papers/preprint-top-k-feedback.pdf)][[link](https://arxiv.org/abs/2309.02425)]<br>
 
 **[4] Foreseeing the Benefits of Incidental Supervision**<br>

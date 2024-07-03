@@ -10,15 +10,15 @@ author_profile: true
 Mingyuan Zhang · Shivani Agarwal<br>
 Under review, 2024.<br>
 
-**[5] Multiclass Learning from Noisy Labels for Non-decomposable Performance Measures.**<br>
-Mingyuan Zhang · Shivani Agarwal<br>
-In <em>Proceedings of the 27th International Conference on Artificial Intelligence and Statistics</em> (AISTATS), 2024.<br>
-[[pdf](/papers/aistats2024-noisy-labels-nondecomposable.pdf)][[link](https://proceedings.mlr.press/v238/zhang24e.html)]<br>
-
 **On the Minimax Regret in Online Ranking with Top-k Feedback.**<br>
 Mingyuan Zhang · Ambuj Tewari<br>
 Preprint, under review, 2023.<br>
 [[pdf](/papers/preprint-top-k-feedback.pdf)][[link](https://arxiv.org/abs/2309.02425)]<br>
+
+**[5] Multiclass Learning from Noisy Labels for Non-decomposable Performance Measures.**<br>
+Mingyuan Zhang · Shivani Agarwal<br>
+In <em>Proceedings of the 27th International Conference on Artificial Intelligence and Statistics</em> (AISTATS), 2024.<br>
+[[pdf](/papers/aistats2024-noisy-labels-nondecomposable.pdf)][[link](https://proceedings.mlr.press/v238/zhang24e.html)]<br>
 
 **[4] Foreseeing the Benefits of Incidental Supervision**<br>
 Hangfeng He · Mingyuan Zhang · Qiang Ning · Dan Roth<br>

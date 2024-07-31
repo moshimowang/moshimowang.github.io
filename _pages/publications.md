@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 **Consistent Output Coding Algorithms for Multi-Label Learning with Low-Rank Losses.**<br>
-Harish G. Ramaswamy, Mingyuan Zhang, Shivani Agarwal, Robert C. Williamson.<br>
+Harish G. Ramaswamy*, Mingyuan Zhang*, Shivani Agarwal, Robert C. Williamson.<br>
 In preparation for submission to Journal of Machine Learning Research (JMLR).<br>
 
 **Consistent Multi‑Label Learning from Noisy Labels.**<br>

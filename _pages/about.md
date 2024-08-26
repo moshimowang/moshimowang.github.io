@@ -1,11 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "Research Interests and Methodologies"
-excerpt: "Research Interests and Methodologies"
+title: "about"
 permalink: /about/
 author_profile: true
 ---
-
-**Interests**: Machine learning and artificial intelligence, multiclass and multi-label learning, learning with noisy labels, weakly supervised learning, transfer learning.<br>
-**Methodologies**:  Probability, Statistics, Machine Learning, Optimization.

@@ -7,5 +7,5 @@ permalink: /about/
 author_profile: true
 ---
 
-**Interests**: Machine learning and artificial intelligence, multiclass and multi-label classification, learning with noisy labels, and weakly supervised learning. I am looking for opportunities to apply theoretical insights to solve real-world problems.<br>
+**Interests**: Machine learning and artificial intelligence, multiclass and multi-label learning, learning with noisy labels, weakly supervised learning, transfer learning.<br>
 **Methodologies**:  Probability, Statistics, Machine Learning, Optimization.

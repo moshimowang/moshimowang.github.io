@@ -16,7 +16,7 @@ Under review, 2024.<br>
 
 **On the Minimax Regret in Online Ranking with Top-k Feedback.**<br>
 Mingyuan Zhang, Ambuj Tewari.<br>
-Preprint, under review, 2023.<br>
+Preprint, 2023.<br>
 [[pdf](/papers/preprint-top-k-feedback.pdf)][[link](https://arxiv.org/abs/2309.02425)]<br>
 
 **[5] Multiclass Learning from Noisy Labels for Non-decomposable Performance Measures.**<br>

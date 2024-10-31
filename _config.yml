@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Mingyuan (William) Zhang 张明远"
   avatar           : "/assets/images/myz.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "<i class='fa fa-user' aria-hidden='true'></i>   **About Me**<br>I hold Ph.D. in Computer and Information Science at the University of Pennsylvania, focusing on Machine Learning and Artificial Intelligence, advised by [<font color='#0092ca'>Prof. Shivani Agarwal</font>](https://directory.seas.upenn.edu/shivani-agarwal/). Before joining Penn, I received B.S. degree from the University of Michigan in 2018 with four majors: (Honors) Mathematics, (Honors) Statistics, Computer Science and Data Science."
+  bio              : ""
   location         : "Philadelphia, PA, USA"
   email            : "myz@seas.upenn.edu"
   links:

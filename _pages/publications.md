@@ -6,9 +6,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Consistent Output Coding Algorithms for Multi-Label Learning with Low-Rank Losses.**<br>
+**Convex Calibrated Output Coding Surrogates for Low-Rank Loss Matrices, with Applications to Multi-Label Learning.**<br>
 Harish G. Ramaswamy\*, Mingyuan Zhang\*, Shivani Agarwal, Robert C. Williamson.<br>
-In preparation for submission to Journal of Machine Learning Research (JMLR).<br>
+In preparation, 2024.<br>
 
 **Consistent Multi‑Label Learning from Noisy Labels.**<br>
 Mingyuan Zhang, Shivani Agarwal.<br>

@@ -114,7 +114,7 @@ author:
       icon: "far fa-fw fa-file-pdf"
       url: /cv/Zhang_Mingyuan_résumé.pdf
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
+      icon: "fa-brands fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mingyuanzhang"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-book"

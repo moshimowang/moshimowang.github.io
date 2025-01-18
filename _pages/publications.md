@@ -8,11 +8,11 @@ author_profile: true
 
 **Convex Calibrated Output Coding Surrogates for Low-Rank Loss Matrices, with Applications to Multi-Label Learning.**<br>
 Harish G. Ramaswamy\*, Mingyuan Zhang\*, Shivani Agarwal, Robert C. Williamson.<br>
-In preparation, 2024.<br>
+In preparation, 2025.<br>
 
-**Consistent Multi‑Label Learning from Noisy Labels.**<br>
+**Consistent Multi‑Label Classification from Noisy Labels.**<br>
 Mingyuan Zhang, Shivani Agarwal.<br>
-Under review, 2024.<br>
+Manuscript, 2024.<br>
 
 **On the Minimax Regret in Online Ranking with Top-k Feedback.**<br>
 Mingyuan Zhang, Ambuj Tewari.<br>

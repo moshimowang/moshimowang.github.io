@@ -107,8 +107,8 @@ author:
   name             : "Mingyuan (William) Zhang 张明远"
   avatar           : "/assets/images/myz.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "Philadelphia, PA, USA"
-  email            : "myz@seas.upenn.edu"
+  location         : "San Francisco Bay Area, USA"
+  email            : ""
   links:
     - label: "Résumé"
       icon: "far fa-fw fa-file-pdf"

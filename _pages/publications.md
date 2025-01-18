@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "Publications"
+title: "Publications and Manuscripts"
 permalink: /publications/
 author_profile: true
 ---

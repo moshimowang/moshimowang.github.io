@@ -6,9 +6,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
 **Convex Calibrated Output Coding Surrogates for Low-Rank Loss Matrices, with Applications to Multi-Label Learning.**<br>
 Harish G. Ramaswamy\*, Mingyuan Zhang\*, Shivani Agarwal, Robert C. Williamson.<br>
 In preparation, 2025.<br>
+
+**STATISTICAL MACHINE LEARNING FOR COMPLEX CLASSIFICATION PROBLEMS.**<br>
+Mingyuan Zhang.<br>
+Dissertation, 2024.<br>
+[[pdf](/papers/Zhang_upenngdas_0175C_16687.pdf)][[link](https://repository.upenn.edu/entities/publication/974a28a3-5901-454e-9a74-d64f60f26cd8)]<br>
 
 **Consistent Multi‑Label Classification from Noisy Labels.**<br>
 Mingyuan Zhang, Shivani Agarwal.<br>

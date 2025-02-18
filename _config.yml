@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/myz.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "San Francisco Bay Area, USA"
-  # email            : ""
+  email            : "z@domain"
   links:
     - label: "Résumé"
       icon: "far fa-fw fa-file-pdf"

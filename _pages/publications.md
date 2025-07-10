@@ -20,6 +20,7 @@ Dissertation, 2024.<br>
 **Consistent Multi‑Label Classification from Noisy Labels.**<br>
 Mingyuan Zhang, Shivani Agarwal.<br>
 Manuscript, 2024.<br>
+[[pdf](/papers/manuscript-multi-label-noisy-labels)]<br>
 
 **On the Minimax Regret in Online Ranking with Top-k Feedback.**<br>
 Mingyuan Zhang, Ambuj Tewari.<br>
